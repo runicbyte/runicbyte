@@ -2,16 +2,7 @@
 
 # `ᛏ` runicbyte
 
-### AI Engineer · Indie Founder · Builder of small useful things
-
-<br>
-
-```text
-> Building AI-native products at the intersection
-> of code, design, and product velocity.
-```
-
-<br>
+### Indie Founder · Builder · Germany
 
 </div>
 
@@ -19,97 +10,58 @@
 
 ### About
 
-I'm **Lasse**, a developer and founder based in Germany.
+Hi, I'm Lasse. I build software, design products, and care a lot about the small details that make digital things feel human.
 
-I build products at the edge of AI and software — shipping fast with Claude Code, designing for clarity, and learning loudly in public. Currently focused on AI-native SaaS, developer tooling, and indie experiments that aim to make complex workflows feel inevitable.
+Most of what I do sits between two worlds — building Outly with my co-founder as a real company, and shipping client work through FocusNord to fund the journey. I learn loudly, ship often, and try to write code that someone (including future-me) actually wants to read.
 
 ---
 
-### `ᛏ` Currently Building
+### `ᛏ` What I'm building
 
-- **[Outly](https://github.com/Outly-App)** — Building the UG, shipping SaaS products that take the friction out of [your one-line value prop]
-- **[FocusNord](https://github.com/FocusNord-DE)** — Web design & AI-augmented digital products under the Outly umbrella
-- **Claude Code Skills & Templates** — Open-sourcing the workflows I use to ship AI-native products faster
+**[Outly](https://github.com/Outly-App)**
+Outly is a social network, not an event calendar.
+
+The vast majority of "event apps" optimize for the calendar — more invites, more notifications, more stuff to click. Outly optimizes for the opposite: fewer, deeper, real-world moments. The product is built around helping people meet face-to-face, form circles that stick, and turn the friction of organizing into something that actually happens.
+
+We're a UG, building this with intent. Long game.
+
+**[FocusNord](https://github.com/FocusNord-DE)**
+FocusNord is the service sub-brand under Outly UG. We design and build custom web products, SaaS solutions, and digital identities for clients across Germany. The work funds Outly's runway and lets us keep shipping client projects we're proud of along the way.
+
+Think of it as: Outly is the long-term mission, FocusNord is the craft we sell while we get there.
 
 ---
 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google AI Studio" />
 </p>
 
-> **Note:** Adjust this list — only keep what you actually use day-to-day. Authenticity beats completeness.
-
 ---
 
-### Stats
+### Find me
 
-<table>
-<tr>
-<td>
-
-![Lasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=runicbyte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=runicbyte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=runicbyte&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
----
-
-### Find me elsewhere
-
-- **LinkedIn** → [linkedin.com/in/lasse-barde](https://linkedin.com/in/lasse-barde) *(replace with your URL)*
-- **X / Twitter** → [@runicbyte](https://twitter.com/runicbyte) *(or whichever variant you got)*
-- **Discord** → `runic.byte` *(or your final handle)*
-- **Email** → hello@outly-app.com
+- LinkedIn — [linkedin.com/in/lassebarde](https://www.linkedin.com/in/lassebarde)
+- X — [@runic_byte](https://x.com/runic_byte)
+- Instagram — [@lassebarde](https://www.instagram.com/lassebarde)
+- Discord — [runic.byte](https://discord.com/users/326072649602170900)
+- Outly mail — kontakt@outly-app.de
+- FocusNord mail — hello@focusnord.de
 
 ---
 
 ### Fun Facts
 
-- ᛏ Tiwaz — my personal rune. The arrow that points up. Strategy, focus, follow-through.
-- 🇩🇪 Building from Germany, shipping for the world
-- ☕ Probably writing code right now while drinking something warm
-- 🎯 Currently obsessed with: AI agents, Claude Code workflows, and shipping faster than yesterday
-
----
-
-<div align="center">
-
-*"Code is the new clay. Ship something today."*
-
-![Profile views](https://komarev.com/ghpvc/?username=runicbyte&label=Profile%20views&color=58A6FF&style=flat-square)
-
-</div>
-
-<!--
-**runicbyte/runicbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Tiwaz (ᛏ) is the rune behind the name. The one that points up. Strategy, follow-through, the long arrow.
+- Bigger fan of writing fewer lines of code than more
+- Coffee almost always wins over tea
+- Most of my best ideas show up on long walks, not in front of a screen
+- I'd rather ship something embarrassing today than something perfect next month
